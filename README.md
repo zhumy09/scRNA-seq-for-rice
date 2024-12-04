@@ -153,6 +153,14 @@ Reproduction instructions
 
 Please check the included jupyter notebook for data analysis and plot visualization.
 
+Raw sequencing data storage:
+
+Single cell: GSE251706;PRJNA640389
+Bulk vs Single-cell: GSE283428;PRJNA1193632
+Bulk root dev: GSE260671;PRJNA1082669
+Bulk root protoplast: GSE283509;PRJNA1194134
+
+
 Power Curves
 
 License
